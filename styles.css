@@ -209,8 +209,9 @@ color: #C7C7C7;
     margin-top: 18px;
 }
 .feed{
-    width: 614px;
-    margin-left: 216px;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 .stories{
@@ -274,6 +275,7 @@ color: #262626;
     height: 32px;
 }
 .post{
+    width: 614px;
     border: 1px solid  #DBDBDB;
     margin-top: 24px;
 margin-bottom: 60px;
