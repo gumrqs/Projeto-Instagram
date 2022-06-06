@@ -9,7 +9,7 @@ body{
 }
 .topo{
     
-    width: 1366px;
+    width: 100%;
     display: flex;
     justify-content: center;
     position: fixed;
